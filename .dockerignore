@@ -1,0 +1,13 @@
+venv/
+pycache/
+*.pyc
+.git/
+.gitignore
+.env
+.ipynb_checkpoints/
+*.ipynb
+
+datasets/color/
+datasets/grayscale/
+datasets/segmented/
+models/plant_disease_prediction_model.h5

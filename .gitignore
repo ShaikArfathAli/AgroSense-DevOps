@@ -1,0 +1,9 @@
+/datasets
+venv/
+*.h5
+*.pyd
+*.dll
+__pycache__/
+*.pyc
+
+static/uploads/
